@@ -1,4 +1,4 @@
-# About SEQUELer
+# About Sequel SAFE
 ## 배경
 1972년 E.F Codd 박사에 의해 RDB 이론이 소개된 이후 여러 벤더가 RDBMS를 개발하였고, 다양한 third-party가 IDE, 백업 및 복원, 모니터링, CASE 도구와 같은 영역에서 경쟁하고 있습니다.
 
